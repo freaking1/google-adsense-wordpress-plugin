@@ -1,0 +1,1 @@
+Google AdSense Plugin allows setting of ads displaying parameters, such as format (text ad, image, text with an image or as links), size, color of the elements at the ad block, rounded corners and also position of the ad block at the website.
